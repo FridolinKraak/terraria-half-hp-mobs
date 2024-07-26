@@ -1,0 +1,3 @@
+displayName = Half HP Mobs
+author = me
+version = 0.1
